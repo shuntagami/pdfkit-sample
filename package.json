@@ -14,7 +14,11 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.11.18",
+    "@types/pdfkit": "^0.13.3",
     "esbuild": "^0.16.12",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "pdfkit": "^0.14.0"
   }
 }
